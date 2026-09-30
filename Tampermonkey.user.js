@@ -2,12 +2,13 @@
 // ==UserScript==
 // @name         Google AI Studio RTL & Complete Hebrew
 // @namespace    http://tampermonkey.net/
-// @version      12.0
+// @version      12.1
 // @description  Full Hebrew translation and RTL for Google AI Studio
 // @author       elch
 // @match        *://aistudio.google.com/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/AIStudioRTL/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/AIStudioRTL/main/Tampermonkey.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=AiStudio.google.com
 // @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
