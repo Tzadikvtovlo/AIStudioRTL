@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Google AI Studio RTL & Complete Hebrew
 // @namespace    http://tampermonkey.net/
-// @version      15.0
+// @version      25.0
 // @description  Full Hebrew translation and RTL for Google AI Studio
 // @author       elch
 // @match        *://aistudio.google.com/*
