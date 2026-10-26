@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  RTL, Hebrew, WhatsApp chat theme, fixed popup position, and timeline (Optimized performance without code-collapse or chat downloader).
-// @author       elch (Optimized by AI)
+// @author       elch
 // @match        *://aistudio.google.com/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/AIStudioRTL/main/AIStudioRTL.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/AIStudioRTL/main/AIStudioRTL.user.js
